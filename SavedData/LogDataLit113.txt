@@ -1,0 +1,2 @@
+id	type	x	y	z	theta	gyokaku	range	spotAngle	intensity	color
+1	spot	0	58.5	51.30215	51.34109	211.4681	100	40	3.6	1,1,1,1

@@ -1,0 +1,2 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+3	Images/北大/Sub Panel 1.png,	0	0	0	0,0,0	1	2	4

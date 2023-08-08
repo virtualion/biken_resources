@@ -1,0 +1,2 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+3	Images/北大/MainPanel.png,Metal	0	0	0	0,0,0	1	1	3

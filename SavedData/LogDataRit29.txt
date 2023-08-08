@@ -1,0 +1,44 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+18	Images/北大/Sub Panel 2.png,Wooden_thin2	0.7499999	4	-11.49001	0,13.9504,0	0.7	12	45
+19	Images/北大/Sub Panel 3.png,Wooden_thin2	0.8500001	4	-4.190001	0,13.87293,0	0.7	12	46
+20	Images/北大/Sub Panel 4.png,Wooden_thin2	0.9499999	4	4.939998	0,13.87293,0	0.7	12	47
+21	Images/北大/Sub Panel 5.png,Wooden_thin2	0.9799998	4	12.21999	0,13.87293,0	0.7	12	48
+22	Images/北大/Sub Panel 6.png,Wooden_thin2	0.9500008	4	-12.2	0,13.25676,0	0.7	11	49
+23	Images/北大/Sub Panel 7.png,Wooden_thin2	1.06	4	4.159992	0,13.17929,0	0.7	11	50
+24	Images/北大/Sub Panel 8.png,Wooden_thin2	0.8699999	4	-4.919999	0,13.17929,0	0.7	11	51
+27	Images/北大/Sub Panel 9.png,Wooden_thin2	1.03	4	11.41999	0,13.25676,0	0.7	11	54
+28	Images/北大/Sub Panel 10.png,Wooden_thin2	1.03	3.5	-3.429999	0,14.56658,0	0.7	23	56
+29	Images/北大/Sub Panel 11.png,Wooden_thin2	1.15	3.5	3.980002	0,14.56658,0	0.7	23	57
+30	Images/長崎大/Sub Panel 2.png,Wooden_thin2	0.1700001	4.5	-6.690002	0,12.38247,0	0.7	26	64
+31	Images/長崎大/Sub Panel 3.png,Wooden_thin2	0.2299999	4.5	0.5800013	0,12.38247,0	0.7	26	65
+32	Images/長崎大/Sub Panel 4.png,Wooden_thin2	0.2200001	4.5	7.729999	0,12.38247,0	0.7	26	66
+33	Images/長崎大/Sub Panel 6.png,Wooden_thin2	0.07999986	4.5	-19.65002	0,12.38246,0	0.7	27	67
+34	Images/長崎大/Sub Panel 7.png,Wooden_thin2	-0.2499998	4.5	-8.870002	0,12.38247,0	0.7	27	68
+35	Images/長崎大/Sub Panel 8.png,Wooden_thin2	-0.19	4.5	-1.350014	0,12.38247,0	0.7	27	69
+37	Images/長崎大/Sub Panel 9.png,Wooden_thin2	-0.2600001	4.5	8.470011	0,12.38246,0	0.7	27	71
+38	Images/長崎大/Sub Panel 10.png,Wooden_thin2	-0.3600002	4.5	15.84999	0,12.46709,0	0.7	27	72
+41	Images/大阪大/Sub Panel 2.png,Wooden_thin2	-0.41	4.5	-10.96	0,12.48564,0	0.7	33	124
+43	Images/大阪大/Sub Panel 3.png,Wooden_thin2	-0.3500002	4.5	-3.609999	0,12.48564,0	0.7	33	126
+44	Images/大阪大/Sub Panel 4.png,Wooden_thin2	-0.5600001	4.5	3.729996	0,12.48564,0	0.7	33	127
+45	Images/大阪大/Sub Panel 5.png,Wooden_thin2	-0.52	4.5	11.07	0,12.48564,0	0.7	33	128
+46	Images/大阪大/Sub Panel 6.png,Wooden_thin2	-0.4599994	4.5	-10.80999	0,11.79199,0	0.7	34	130
+47	Images/大阪大/Sub Panel 7.png,Wooden_thin2	-0.5300003	4.5	-3.569999	0,11.79199,0	0.7	34	131
+48	Images/大阪大/Sub Panel 8-A.png,Wooden_thin2	-0.6100009	4.5	3.78	0,11.79199,0	0.7	34	132
+49	Images/大阪大/Sub Panel 8-B.png,Wooden_thin2	-0.6599988	4.5	11.11001	0,11.79199,0	0.7	34	133
+50	Images/大阪大/Sub Panel 9.png,Wooden_thin2	0.25	4.5	-7.450001	0,11.79199,0	0.7	35	135
+51	Images/北大/Sub Panel 10.png,Wooden_thin2	0.32	4.5	-0.06000007	0,11.79199,0	0.7	35	136
+52	Images/北大/Sub Panel 11.png,Wooden_thin2	0.33	4.5	7.309999	0,11.79199,0	0.7	35	137
+55	Images/東大/Sub Panel 2.png,Wooden_thin2	0.09000006	4.5	-11.54	0,11.79199,0	0.7	39	152
+56	Images/東大/Sub Panel 3.png,Wooden_thin2	0.12	4.5	-4.26	0,11.79199,0	0.7	39	153
+57	Images/東大/Sub Panel 4-A.png,Wooden_thin2	0.18	4.5	3.03	0,11.79199,0	0.7	39	154
+58	Images/東大/Sub Panel 4-B.png,Wooden_thin2	0.02000011	4.5	10.32	0,11.79199,0	0.7	39	155
+59	Images/東大/Sub Panel 5.png,Wooden_thin2	0.4799999	4.5	-3.759999	0,12.48564,0	0.7	41	156
+60	Images/東大/Sub Panel 6.png,Wooden_thin2	0.5000001	4.5	3.589999	0,12.48745,0	0.7	41	157
+61	Images/東大/Sub Panel 7.png,Wooden_thin2	0.02999993	4.5	-7.29	0,12.48746,0	0.7	42	158
+62	Images/東大/Sub Panel 8.png,Wooden_thin2	0.12	4.5	0	0,12.48746,0	0.7	42	159
+63	Images/東大/Sub Panel ９.png,Wooden_thin2	0.19	4.5	7.340001	0,12.48746,0	0.7	42	160
+66	Videos/osaka.mp4	-65.68005	39.5	1.540003	1.6,85.5423,0	6	57	183
+67	Videos/hokkaido.mp4	-78.43001	31	-4.04	0,85.19135,0	6	58	185
+68	Videos/nagasaki.mp4	-69.63002	31.5	1.930001	0,86.67725,0	6	59	187
+69	Videos/tokyo.mp4	-77.55002	35.5	10.84	0,86.67725,0	6	61	190
+74	Images/yuka1.png,none(caption)	-5.040003	-0.5	36.7	3.200002,22.28843,0	3	63	198
