@@ -1,4 +1,5 @@
 id	data	x	y	z	theta	size	parent	uniqueCode
+74	Images/yuka1.png,none(caption)	11.51001	-0.5	34.97992	3.200002,22.28843,0	6	63	198
 18	Images/北大/Sub Panel 2.png,Wooden_thin2	0.7499999	4	-11.49001	0,13.9504,0	0.7	12	45
 19	Images/北大/Sub Panel 3.png,Wooden_thin2	0.8500001	4	-4.190001	0,13.87293,0	0.7	12	46
 20	Images/北大/Sub Panel 4.png,Wooden_thin2	0.9499999	4	4.939998	0,13.87293,0	0.7	12	47
@@ -41,4 +42,3 @@ id	data	x	y	z	theta	size	parent	uniqueCode
 67	Videos/hokkaido.mp4	-78.43001	31	-4.04	0,85.19135,0	6	58	185
 68	Videos/nagasaki.mp4	-69.63002	31.5	1.930001	0,86.67725,0	6	59	187
 69	Videos/tokyo.mp4	-77.55002	35.5	10.84	0,86.67725,0	6	61	190
-74	Images/yuka1.png,none(caption)	11.51001	-0.5	34.97992	3.200002,22.28843,0	6	63	198

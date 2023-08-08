@@ -1,2 +1,0 @@
-id	data	x	y	z	theta	size	parent	uniqueCode
-1	Videos/hokkaido.mp4	-111.4099	23.5	37.93997	90.8002,0,0	3	2	2

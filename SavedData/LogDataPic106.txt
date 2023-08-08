@@ -1,5 +1,0 @@
-ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
-4	./Images/gaku/nagasaki2.png	-38.025,22.5,54	0,0,1	0,1,0	-1,0,0	-62.03504	3.0825	0.2	1	Wooden_thin2	-1:-1	11
-8	./Images/gaku/nagasaki2.png	-48.53004,19.104,-8.819014	0.1890957,0,0.9819587	0,1,0	-0.9819587,0,0.1890957	100.6504	1.343996	0.2	1	Wooden_thin2	5:1	21
-9	./Images/gaku/nagasaki2.png	-48.53004,19.104,-8.819014	0.1890957,0,0.9819587	0,1,0	-0.9819587,0,0.1890957	81.79709	1.344001	0.2	1	Wooden_thin2	5:1	22
-10	./Images/gaku/nagasaki2.png	-48.53004,19.104,-8.819014	0.1890957,0,0.9819587	0,1,0	-0.9819587,0,0.1890957	63.66906	1.060501	0.2	1	Wooden_thin2	5:1	23

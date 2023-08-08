@@ -1,9 +1,0 @@
-ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
-1	./Images/t_hokkaido.png	-36.2249,19.104,252.7993	-1,0,0	0,1,0	0,0,1	-0.114922	-6.625504	0.2	5	Wooden_thin2	3:3	4
-3	./Images/北大/Sub Panel 1.png	-123.9213,28.656,338.4843	-1,0,0	0,1,0	0,0,1	-0.02305195	-4.837506	0.2	1.4	none(caption)	16:3	21
-80	./Images/gaku/hokkaido2.jpg	-146.25,48.75,200	0,0,1	0,1,0	-1,0,0	44.70229	-19.04101	0.2	1	Metal_Vertical2	-1:-1	107
-81	./Images/t_nagasaki.png	108.6297,19.104,255.2508	-1,0,0	0,1,0	0,0,1	0.1407497	-4.011003	0.2	5	Wooden_thin2	25:3	108
-82	./Images/北大/MainPanel.png	0,48.75,395	1,0,0	0,1,0	0,0,1	-61.91452	-3.732	0.2	8	Wooden_thin2	-1:-1	115
-83	./Images/長崎大/Sub Panel 1.png	29.92524,28.656,281.924	0,0,1	0,1,0	-1,0,0	-2.405975	-1.656	0.2	1	none(caption)	27:3	116
-4	./Images/t_hokkaido.png	23.70133,19.104,228.0792	-0.7295752,0,0.6839006	0,1,0	-0.6839006,0,-0.7295752	-1.190745	-5.995502	0.2	4	none(caption)	13:1	24
-20	./Images/大阪大/Sub Panel 1.png	-83.63574,28.656,134.5217	0,0,1	0,1,0	-1,0,0	-19.83431	-10.4445	0.2	2	none(caption)	19:3	37
