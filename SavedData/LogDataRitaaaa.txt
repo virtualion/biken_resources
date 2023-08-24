@@ -1,2 +1,0 @@
-id	data	x	y	z	theta	size	parent	uniqueCode
-30	Images/長崎大/Sub Panel 2.png,Wooden_thin2	0.1700001	4.5	-6.690002	0,12.38247,0	0.7	1	64

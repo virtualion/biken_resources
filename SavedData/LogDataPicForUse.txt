@@ -3,11 +3,10 @@ ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqu
 4	./Images/gaku/hokkaido1.png	-146.25,48.75,200	0,0,1	0,1,0	-1,0,0	73.74088	-21.5295	0.2	1	Wooden_thin	-1:-1	36
 5	./Images/gaku/hokkaido2.jpg	-146.25,48.75,200	0,0,1	0,1,0	-1,0,0	55.26419	-21.561	0.2	1	Metal_Vertical2	-1:-1	37
 7	./Images/長崎大/Sub Panel 1.png	26.27899,28.656,339.0024	-1,0,0	0,1,0	0,0,1	0.1274872	-5.404502	0.2	1.4	none(caption)	25:1	63
-11	./Images/gaku/nagasaki1.png	16.25491,23.88,272.8163	0,0,-1	0,1,0	-1,0,0	-3.349858	1.765499	0.2	1	Wooden_thin	22:1	78
-12	./Images/gaku/nagasaki2.png	16.25491,23.88,272.8163	0,0,-1	0,1,0	-1,0,0	-17.19164	2.017497	0.2	1	Metal_Vertical2	22:1	79
-15	./Images/大阪大/Sub Panel 1.png	-120.8175,28.656,34.79662	0,0,-1	0,1,0	-1,0,0	-0.1251287	-4.9635	0.2	1.4	none(caption)	36:3	142
-17	./Images/gaku/osaka1.png	-146.25,48.75,200	0,0,1	0,1,0	-1,0,0	-26.39498	-21.624	0.2	1	Metal_Vertical2	-1:-1	144
-18	./Images/gaku/osaka2.png	-146.25,48.75,200	0,0,1	0,1,0	-1,0,0	-12.04991	-21.7815	0.2	1	Wooden_thin	-1:-1	145
+11	./Images/gaku/nagasaki1.png	16.25491,23.88,272.6964	0,0,-1	0,1,0	-1,0,0	-3.349858	1.765499	0.2	1	Wooden_thin	22:1	78
+12	./Images/gaku/nagasaki2.png	16.25491,23.88,272.6964	0,0,-1	0,1,0	-1,0,0	-17.19164	2.017497	0.2	1	Metal_Vertical2	22:1	79
+15	./Images/大阪大/Sub Panel 1.png	-120.8175,28.656,27.67656	0,0,-1	0,1,0	-1,0,0	-0.1251287	-4.9635	0.2	1.4	none(caption)	36:3	142
+17	./Images/gaku/osaka1.png	-146.25,48.75,200	0,0,1	0,1,0	-1,0,0	-7.620982	-21.561	0.2	1	Metal_Vertical2	-1:-1	144
 20	./Images/東大/Sub Panel 1.png	115.4151,28.656,192.7512	0,0,1	0,1,0	1,0,0	0.1450399	-5.309999	0.2	1.4	none(caption)	49:1	170
 22	./Images/gaku/tokyo1.png	146.25,48.75,200	0,0,-1	0,1,0	1,0,0	145.5081	-21.75	0.2	1	Metal_Vertical2	-1:-1	172
 23	./Images/gaku/tokyo2.png	146.25,48.75,200	0,0,-1	0,1,0	1,0,0	161.0087	-21.75	0.2	1	Wooden_thin	-1:-1	173
@@ -20,3 +19,4 @@ ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqu
 30	./Images/長崎大/MainPanel.png	85.49476,19.104,240.5371	1,0,0	0,1,0	0,0,1	9.584768	-6.720003	0.2	4	none(caption)	24:3	199
 31	./Images/大阪大/MainPanel.png	-67.39308,19.104,130.5035	0,0,1	0,1,0	-1,0,0	15.97945	-6.720004	0.2	4	none(caption)	29:1	200
 32	./Images/東大/MainPanel.png	61.40091,19.104,116.0853	0,0,-0.9999863	0,1,0	0.9999863,0,0	15.26586	-6.594003	0.2	4	none(caption)	30:3	201
+33	./Images/gaku/osaka2.png	-110.6366,23.88,208.7947	1,0,0	0,1,0	0,0,1	-18.38557	2.930998	0.2	1	Wooden_thin	32:3	205
