@@ -1,1 +1,0 @@
-sakuhinScan.pyは./Images以下にある画像をスキャンしてsakuhins.txtに起こす
